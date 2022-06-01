@@ -1,12 +1,13 @@
 **TODO**
 
-- [ ] Think about the entities required
-  - [ ] Think about the properties and behaviour of the entities
 - [ ] Prioritize modelling data
-- [ ] Write Point class and its tests
+- [ ] Create road entity and implement its methods
 
 <br/>
 
 **DONE**
 
 - [x] Create src and test directories
+- [x] Write Point class and its tests
+- [x] Think about the entities required
+  - [x] Think about the properties and behaviour of the entities
